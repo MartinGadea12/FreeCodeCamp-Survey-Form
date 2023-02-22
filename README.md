@@ -1,7 +1,6 @@
 # FreeCodeCamp-Survey-Form
-
-# Crea un formulario de encuesta
-# Objetivo: Crea una aplicación que sea funcionalmente similar a https://survey-form.freecodecamp.rocks
+Crea un formulario de encuesta
+Objetivo: Crea una aplicación que sea funcionalmente similar a https://survey-form.freecodecamp.rocks
 
 Historias de usuario:
 
