@@ -1,8 +1,8 @@
-# FreeCodeCamp-Survey-Form
+<h1 aling="center"> FreeCodeCamp-Survey-Form </h1>
 Crea un formulario de encuesta
-Objetivo: Crea una aplicación que sea funcionalmente similar a https://survey-form.freecodecamp.rocks
+Objetivo: Crea una aplicación que sea funcionalmente similar a https://survey-form.freecodecamp.rocks </h1>
 
-Historias de usuario:
+<h2 aling="center"> Historias de usuario: </h2>
 
 <ul>
 <li>Debes tener un título de página en un elemento h1 con un id de title</li>
@@ -23,7 +23,7 @@ Historias de usuario:
 <li>Dentro del elemento form, se te presenta un botón con un id de submit para enviar todas las entradas</li>
 </ul>
 
-<h2>Completa las historias de usuario y pasa todas las pruebas a continuación para completar este proyecto. Dale tu propio estilo propio.</h2>
+<h2 aling="center" >Completa las historias de usuario y pasa todas las pruebas a continuación para completar este proyecto. Dale tu propio estilo.</h2>
 
 <h2> Nota: Asegurate de agregar <link rel="stylesheet" href="styles.css"> en tu HTML para enlazar tu hoja de estilos y aplicar tu CSS </h2>
 
