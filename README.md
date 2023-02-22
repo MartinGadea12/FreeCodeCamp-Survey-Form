@@ -4,7 +4,7 @@ Objetivo: Crea una aplicación que sea funcionalmente similar a https://survey-f
 
 Historias de usuario:
 
-<ul align="center">
+<ul>
 <li>Debes tener un título de página en un elemento h1 con un id de title</li>
 <li>Debes tener una corta explicación en el elemento p con un id de description</li>
 <li>Debes tener un elemento form con un id de survey-form</li>
